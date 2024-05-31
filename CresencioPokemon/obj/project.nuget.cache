@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dTSHTgnW9y9LbVRQsqkb3QtegAAGhIC3FSWfgy2j8+IVXTmrRFxmyBtqLeS+8htVGIxaMID39kFpz+40kJe4tw==",
+  "dgSpecHash": "pTWEevuD8zWPzfDErv3yX+BqQLdrYVhTyw5iYIrDiYKsa4grHW1kzpSF0ksbLfIMOFhozxS0ve0xFVKfyj3h6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\CresencioPokemon.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
