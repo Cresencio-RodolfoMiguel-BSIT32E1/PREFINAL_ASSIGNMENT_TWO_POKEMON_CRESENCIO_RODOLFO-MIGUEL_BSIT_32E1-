@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|c:\\users\\acer\\onedrive\\desktop\\prefinal_assignment_two_pokemon_cresencio_rodolfo-miguel_bsit_32e1-\\cresenciopokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|c:\\users\\acer\\onedrive\\desktop\\prefinal_assignment_two_pokemon_cresencio_rodolfo-miguel_bsit_32e1-\\cresenciopokemon\\views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|solutionrelative:views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|c:\\users\\acer\\onedrive\\desktop\\prefinal_assignment_two_pokemon_cresencio_rodolfo-miguel_bsit_32e1-\\cresenciopokemon\\views\\pokemon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|solutionrelative:views\\pokemon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|c:\\users\\acer\\onedrive\\desktop\\prefinal_assignment_two_pokemon_cresencio_rodolfo-miguel_bsit_32e1-\\cresenciopokemon\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|solutionrelative:models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|c:\\users\\acer\\onedrive\\desktop\\prefinal_assignment_two_pokemon_cresencio_rodolfo-miguel_bsit_32e1-\\cresenciopokemon\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|solutionrelative:controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,12 +51,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:32:07.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Views\\Pokemon\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pokemon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Views\\Pokemon\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pokemon\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T15:30:35.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Views\\Pokemon\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pokemon\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Views\\Pokemon\\Details.cshtml",
+              "RelativeToolTip": "Views\\Pokemon\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T15:28:08.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Models\\Pokemon.cs",
+              "RelativeToolTip": "Models\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:24:56.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PokemonController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Controllers\\PokemonController.cs",
               "RelativeDocumentMoniker": "Controllers\\PokemonController.cs",
               "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Controllers\\PokemonController.cs",
               "RelativeToolTip": "Controllers\\PokemonController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T15:15:28.055Z",
               "EditorCaption": ""
