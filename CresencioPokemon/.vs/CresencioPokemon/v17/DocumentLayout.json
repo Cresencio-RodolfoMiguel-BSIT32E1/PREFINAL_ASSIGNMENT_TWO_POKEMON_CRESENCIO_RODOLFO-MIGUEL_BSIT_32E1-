@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|c:\\users\\acer\\onedrive\\desktop\\prefinal_assignment_two_pokemon_cresencio_rodolfo-miguel_bsit_32e1-\\cresenciopokemon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|c:\\users\\acer\\onedrive\\desktop\\prefinal_assignment_two_pokemon_cresencio_rodolfo-miguel_bsit_32e1-\\cresenciopokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7415B0-F4EF-463C-B3BE-CB9CE4C2C224}|CresencioPokemon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,19 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-31T15:41:16.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T15:32:07.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Views\\Pokemon\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Pokemon\\Index.cshtml",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Views\\Pokemon\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Pokemon\\Details.cshtml",
@@ -89,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Pokemon.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Models\\Pokemon.cs",
               "RelativeDocumentMoniker": "Models\\Pokemon.cs",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PokemonController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\PREFINAL_ASSIGNMENT_TWO_POKEMON_CRESENCIO_RODOLFO-MIGUEL_BSIT_32E1-\\CresencioPokemon\\Controllers\\PokemonController.cs",
               "RelativeDocumentMoniker": "Controllers\\PokemonController.cs",
